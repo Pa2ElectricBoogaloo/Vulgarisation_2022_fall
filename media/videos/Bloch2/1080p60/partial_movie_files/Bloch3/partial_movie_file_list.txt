@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/pa/Documents/Vulgarisation_2022_fall/media/videos/Bloch2/1080p60/partial_movie_files/Bloch3/629053746_1501071549_4200306834.mp4'
+file 'file:/home/pa/Documents/Vulgarisation_2022_fall/media/videos/Bloch2/1080p60/partial_movie_files/Bloch3/756939311_4017451634_976416080.mp4'
+file 'file:/home/pa/Documents/Vulgarisation_2022_fall/media/videos/Bloch2/1080p60/partial_movie_files/Bloch3/756939311_827557690_1281959940.mp4'
+file 'file:/home/pa/Documents/Vulgarisation_2022_fall/media/videos/Bloch2/1080p60/partial_movie_files/Bloch3/756939311_2785807011_1324568551.mp4'
+file 'file:/home/pa/Documents/Vulgarisation_2022_fall/media/videos/Bloch2/1080p60/partial_movie_files/Bloch3/756939311_893067966_3703472486.mp4'
+file 'file:/home/pa/Documents/Vulgarisation_2022_fall/media/videos/Bloch2/1080p60/partial_movie_files/Bloch3/756939311_3623753696_593597766.mp4'
+file 'file:/home/pa/Documents/Vulgarisation_2022_fall/media/videos/Bloch2/1080p60/partial_movie_files/Bloch3/756939311_1042774708_795405528.mp4'
+file 'file:/home/pa/Documents/Vulgarisation_2022_fall/media/videos/Bloch2/1080p60/partial_movie_files/Bloch3/756939311_2002649701_795405528.mp4'
